@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="44035" started-at="2020-05-07T23:24:25Z" finished-at="2020-05-07T23:25:09Z">
+    <groups>
+      <group name="ui">
+        <method signature="TrelloTests.deleteLabelUi()[pri:5, instance:TrelloTests@7a360554]" name="deleteLabelUi" class="TrelloTests"/>
+        <method signature="TrelloTests.deleteMemberUi()[pri:3, instance:TrelloTests@7a360554]" name="deleteMemberUi" class="TrelloTests"/>
+        <method signature="TrelloTests.unArchiveListUi()[pri:4, instance:TrelloTests@7a360554]" name="unArchiveListUi" class="TrelloTests"/>
+      </group> <!-- ui -->
+      <group name="api">
+        <method signature="TrelloTests.deleteLabel()[pri:2, instance:TrelloTests@7a360554]" name="deleteLabel" class="TrelloTests"/>
+        <method signature="TrelloTests.deleteMember()[pri:0, instance:TrelloTests@7a360554]" name="deleteMember" class="TrelloTests"/>
+        <method signature="TrelloTests.unArchiveList()[pri:1, instance:TrelloTests@7a360554]" name="unArchiveList" class="TrelloTests"/>
+      </group> <!-- api -->
+    </groups>
+    <test name="Surefire test" duration-ms="44035" started-at="2020-05-07T23:24:25Z" finished-at="2020-05-07T23:25:09Z">
+      <class name="TrelloTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TrelloTests@7a360554]" name="setUp" is-config="true" duration-ms="2264" started-at="2020-05-07T23:24:25Z" finished-at="2020-05-07T23:24:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="deleteMember()[pri:0, instance:TrelloTests@7a360554]" name="deleteMember" duration-ms="699" started-at="2020-05-07T23:24:27Z" finished-at="2020-05-07T23:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteMember -->
+        <test-method status="PASS" signature="unArchiveList()[pri:1, instance:TrelloTests@7a360554]" name="unArchiveList" duration-ms="261" started-at="2020-05-07T23:24:28Z" finished-at="2020-05-07T23:24:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unArchiveList -->
+        <test-method status="PASS" signature="deleteLabel()[pri:2, instance:TrelloTests@7a360554]" name="deleteLabel" duration-ms="249" started-at="2020-05-07T23:24:29Z" finished-at="2020-05-07T23:24:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteLabel -->
+        <test-method status="PASS" signature="deleteBoard()[pri:0, instance:TrelloTests@7a360554]" name="deleteBoard" is-config="true" duration-ms="584" started-at="2020-05-07T23:24:29Z" finished-at="2020-05-07T23:24:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteBoard -->
+        <test-method status="PASS" signature="driverSetup()[pri:0, instance:TrelloTests@7a360554]" name="driverSetup" is-config="true" duration-ms="91" started-at="2020-05-07T23:24:29Z" finished-at="2020-05-07T23:24:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:TrelloTests@7a360554]" name="login" is-config="true" duration-ms="8828" started-at="2020-05-07T23:24:30Z" finished-at="2020-05-07T23:24:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TrelloTests@7a360554]" name="setUp" is-config="true" duration-ms="1618" started-at="2020-05-07T23:24:38Z" finished-at="2020-05-07T23:24:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="deleteMemberUi()[pri:3, instance:TrelloTests@7a360554]" name="deleteMemberUi" duration-ms="5190" started-at="2020-05-07T23:24:40Z" finished-at="2020-05-07T23:24:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteMemberUi -->
+        <test-method status="PASS" signature="unArchiveListUi()[pri:4, instance:TrelloTests@7a360554]" name="unArchiveListUi" duration-ms="1313" started-at="2020-05-07T23:24:46Z" finished-at="2020-05-07T23:24:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unArchiveListUi -->
+        <test-method status="PASS" signature="deleteLabelUi()[pri:5, instance:TrelloTests@7a360554]" name="deleteLabelUi" duration-ms="11884" started-at="2020-05-07T23:24:47Z" finished-at="2020-05-07T23:24:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteLabelUi -->
+        <test-method status="PASS" signature="deleteBoard()[pri:0, instance:TrelloTests@7a360554]" name="deleteBoard" is-config="true" duration-ms="638" started-at="2020-05-07T23:24:59Z" finished-at="2020-05-07T23:25:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteBoard -->
+        <test-method status="PASS" signature="close()[pri:0, instance:TrelloTests@7a360554]" name="close" is-config="true" duration-ms="9072" started-at="2020-05-07T23:25:00Z" finished-at="2020-05-07T23:25:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TrelloTests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

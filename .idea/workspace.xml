@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b220d3dd-9f91-41f7-b0b9-9d8db36432ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+  </component>
+  <component name="ProjectId" id="1bXA8iLhyxNqLjTwMPemb5pour6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\Final\FinalProject\src\test\java" />
+      <recent name="C:\Users\admin\Documents\Антону\ITVDN\Урок 4_Maven and Gradle. TestNG and jUnit\004_Samples\FinalProject\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TrelloTests">
+    <configuration name="TrelloTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TrelloTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrelloTests.checkCreateBoard" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TrelloTests" />
+      <option name="METHOD_NAME" value="checkCreateBoard" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrelloTests.deleteMember" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TrelloTests" />
+      <option name="METHOD_NAME" value="deleteMember" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TrelloTests" />
+        <item itemvalue="TestNG.TrelloTests.deleteMember" />
+        <item itemvalue="TestNG.TrelloTests.checkCreateBoard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b220d3dd-9f91-41f7-b0b9-9d8db36432ee" name="Default Changelist" comment="" />
+      <created>1588767906978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588767906978</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="478" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1588893038742">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="478" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1588893038742" />
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1588769102403" />
+    <state x="436" y="351" width="408" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588893357347">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="436" y="351" width="408" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.984@0.0.1280.984" timestamp="1588893357347" />
+    <state x="83" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588865254542">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="83" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.984@0.0.1280.984" timestamp="1588865254542" />
+    <state width="1237" height="245" key="GridCell.Tab.0.bottom" timestamp="1588894061554">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="245" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1588894061554" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588807612205" />
+    <state width="1237" height="245" key="GridCell.Tab.0.center" timestamp="1588894061553">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="245" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1588894061553" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588807612204" />
+    <state width="1237" height="245" key="GridCell.Tab.0.left" timestamp="1588894061553">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="245" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1588894061553" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588807612204" />
+    <state width="1237" height="245" key="GridCell.Tab.0.right" timestamp="1588894061553">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="245" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1588894061553" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588807612205" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1588802897466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588802897466" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1588802897466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588802897466" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1588802897466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588802897466" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1588802897466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588802897466" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1588805907514">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1588805907514" />
+    <state x="141" y="132" key="SettingsEditor" timestamp="1588890561622">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="141" y="132" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1588890561622" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1588802008347">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1588802008347" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589482540163">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589482540163" />
+  </component>
+</project>
